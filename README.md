@@ -72,7 +72,7 @@ How does replacing the ninth-grade scores affect the following:
 1. Math and reading scores by grade
 All values but ninth-grade in Thomas High School will remain the same.
 New values for ninth-grade in Thomas High School will be nulls.
-* Data before removing reading and math socres from the Thomas High School ninth graders.   
+* Data before removing reading and math socres from the Thomas High School ninth graders.  
 Image #9 (Before)
 ![Image #9 (Before)](https://user-images.githubusercontent.com/95668609/151647871-f41013b5-c400-46f9-9233-31b28dc55861.png)
 
